@@ -8,8 +8,10 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "chokidar": "^3.5.1",
     "express": "^4.17.1",
     "tiny-glob": "^0.2.8",
+    "ws": "^7.4.4",
     "yaml": "^1.10.0"
   }
 }
